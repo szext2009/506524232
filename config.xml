@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns        = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-	id      = "com.mywebsoft.506524232"  
+	id      = "com.mywebsoft.pdd506524232"  
     version     = "1.1.1"> <!-- 注释：应用版本--> 
-    <name>的双方的首发的</name><!-- 注释：应用名称，显示在移动终端桌面上和应用Logo一起 --> 
+    <name>胖墩墩的</name><!-- 注释：应用名称，显示在移动终端桌面上和应用Logo一起 --> 
     <description><!-- 注释：应用描述 -->
-        的双方的首发的
+      多少是
     </description> 
     <author href="http://www.mywebsoft.com" email="pangszhk@gmail.com"> 
         mywebsoft
